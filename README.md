@@ -2,7 +2,7 @@
 * [Sign up and login the Genesis Cloud](#sign-up-and-login-the-genesis-cloud)
 * [Create an instance for computation](#create-an-instance-for-computation)
   * [Step 1: Add your credit card](#step-1-add-your-credit-card)
-  * [Step 2: Create and upload `ssh` key](#step-2-create-and-upload-ssh-key)
+  * [Step 2: Create and register a `ssh` key](#step-2-create-and-register-a-ssh-key)
   * [Step 3: Create and configure a GPU instance](#step-3-create-and-configure-a-GPU-instance)
 * [Use your instance](#use-your-instance)
   * [Activating `conda` environment and run your code](#activating-conda-environment-and-run-your-code)
@@ -22,7 +22,7 @@ To compute your code using any instance do the following steps
    Before creating an instance, we need to add the details of credit card. 
    ![billing](https://user-images.githubusercontent.com/29531232/98151665-8f4e6600-1ef6-11eb-9444-f9bb554f31a5.png)
  
- * ### Step 2: Create and upload `ssh` key
+ * ### Step 2: Create and register a `ssh` key
    In this step, first create `ssh` key. To generate `ssh` key in Ubuntu do the following steps
    ```sh
    pratik@PRATIK-YOGA:~$ ssh-keygen
@@ -39,9 +39,13 @@ To compute your code using any instance do the following steps
    ```
    Now, we need to register the generated `public ssh key`(.pub) in genesis cloud. To do this, go to the **Account section** in the navigation menu, select **Keys and Tokens**. In the **SSH keys** section, click `Add new Key`.
    ![sshkey](https://user-images.githubusercontent.com/29531232/98155932-10106080-1efd-11eb-8965-a549a70491fe.png)
+   
    A popup window will appear
    ![popup](https://user-images.githubusercontent.com/29531232/98157375-4818a300-1eff-11eb-9892-96bb6b984d77.png)
    In that window, upload the generated public key(`.pub`) file. 
+   
+   * ### Step 3: Create and configure a GPU instance
+   To do this, go to the **Account section** in the navigation menu, select **Keys and Tokens**. In the **SSH keys** section, click `Add new Key`.
 
  
 
