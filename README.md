@@ -1,7 +1,7 @@
 # GPUCloud
 * [Sign up and login the Genesis Cloud](#sign-up-and-login-the-genesiscloud)
 * [Create an instance for computation](#create-an-instance-for-computation)
-  * [Step 1: Add your credit card](#step-1:-add-your-credit-card)
+  * [Add your credit card](#step-1:-add-your-credit-card)
   * [Activating `conda` environment and run your code](#activating-conda-environment-and-run-your-code)
 
 
