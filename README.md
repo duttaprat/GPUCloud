@@ -1,7 +1,4 @@
 # GPUCloud
-A Step-wise guide for Creating an instance in Genesis Cloud and utilize it
-
-In this repository, I am going to guide the following things 
 * [Sign up and login the Genesis Cloud](#sign-up-and-login-the-genesiscloud)
 * [Create an instance for computation](#create-an-instance-for-computation)
   * [Add your credit card](#add-your-credit-card)
@@ -10,11 +7,13 @@ In this repository, I am going to guide the following things
 
 ## Sign up and login the genesiscloud
 
-[Sign-up](https://account.genesiscloud.com/signup/HX6DfDGFuxSn0sSmPmSKB) for Genesis Cloud and [login](https://account.genesiscloud.com/signin/tGu7mwKi5_f3naXxcomYy) your Genesis Cloud Account.
+[Sign-up](https://account.genesiscloud.com/signup/HX6DfDGFuxSn0sSmPmSKB) Genesis Cloud using your email address and [login](https://account.genesiscloud.com/signin/tGu7mwKi5_f3naXxcomYy) Genesis Cloud Account using your credentials.
 
 
 ## Create an instance for computation 
+To compute your code using any instance do the following steps
 
+### Step 1. Add your credit card
 You can download the Anaconda installer either using `Terminal` or `manually from the website`. Follow the steps to download it manullay from [Anaconda Distribution Page](https://www.anaconda.com/products/individual). 
 
 1. Go to the [Anaconda Distribution Page](https://www.anaconda.com/products/individual#linux) and click `Download`.
