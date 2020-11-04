@@ -37,11 +37,11 @@ To compute your code using any instance do the following steps
    Your identification has been saved in /home/username/.ssh/id_rsa.
    Your public key has been saved in /home/username/.ssh/id_rsa.pub.
    ```
-   
- 
-   From the **Account section** in the navigation menu, select **Keys and Tokens**. In the **SSH keys** section, click `Add new Key`.
+   Now, we need to register the generated `public ssh key`(.pub) in genesis cloud. To do this, go to the **Account section** in the navigation menu, select **Keys and Tokens**. In the **SSH keys** section, click `Add new Key`.
    ![sshkey](https://user-images.githubusercontent.com/29531232/98155932-10106080-1efd-11eb-8965-a549a70491fe.png)
+   A popup window will appear
    ![popup](https://user-images.githubusercontent.com/29531232/98157375-4818a300-1eff-11eb-9892-96bb6b984d77.png)
+   In that window, upload the generated public key(`.pub`) file. 
 
  
 
