@@ -62,8 +62,24 @@ To compute your code using any instance do the following steps
    ![2020-11-05 (8)](https://user-images.githubusercontent.com/29531232/98167328-e6f8cb80-1f0e-11eb-8ea8-56c9354c0b9c.png)
     
    ![2020-11-05 (7)](https://user-images.githubusercontent.com/29531232/98167432-11e31f80-1f0f-11eb-93fa-d9c1618e4480.png)
+   
+   Open `terminal` and use the `ssh` command. Then you need to enter the saved password. 
+   
+   Move the file contents to the cloud server using `scp` command. For example:
+   ```
+   (base) pratik@PRATIK-YOGA:~$ scp -r /home/pratik/Strand/genesiscloud ubuntu@194.61.21.142:/home/ubuntu/strand 
+   ```
+   
+## Install Required Packages
+   To run the code, please install the following packages
+   - Transformers : pip install transformers
+   - plotly : pip install plotly
+   - Kaleido: pip install -U kaleido
+   - gpuutil: pip -q install gputil
+   - psutil: pip -q install psutil
+   - humanize: pip -q install humanize
 
     
 
 
-  ## NOTE: `pip` and `conda` both are used to install packages in your local system. But to install package in any specific environment use `conda`.  
+
