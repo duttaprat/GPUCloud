@@ -27,7 +27,8 @@ To compute your code using any instance do the following steps
 
 1. Go to the [Anaconda Distribution Page](https://www.anaconda.com/products/individual#linux) and click `Download`.
 
-   ![2020-09-17](https://user-images.githubusercontent.com/29531232/93409785-43e3e800-f8b5-11ea-83fb-aac7769c7d5b.png)
+   ![billing](https://user-images.githubusercontent.com/29531232/98151665-8f4e6600-1ef6-11eb-9444-f9bb554f31a5.png)
+
 
 
 2. After clicking you will redirect to the page section where you can find various `Anaconda Installer`. Download specific installer for your OS. 
