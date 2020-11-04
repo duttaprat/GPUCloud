@@ -8,9 +8,12 @@
   * [Activating `conda` environment and run your code](#activating-conda-environment-and-run-your-code)
 
 
-## Sign up and login the genesiscloud
+## Sign up and login the Genesis Cloud
 
-[Sign-up](https://account.genesiscloud.com/signup/HX6DfDGFuxSn0sSmPmSKB) Genesis Cloud using your email address and [login](https://account.genesiscloud.com/signin/tGu7mwKi5_f3naXxcomYy) Genesis Cloud Account using your credentials.
+[Sign-up](https://account.genesiscloud.com/signup/HX6DfDGFuxSn0sSmPmSKB) Genesis Cloud using your email address and [login](https://account.genesiscloud.com/signin/tGu7mwKi5_f3naXxcomYy) Genesis Cloud Account using your credentials. 
+
+    After login, you can access the dashboard.
+    
 
 
 ## Create an instance for computation 
