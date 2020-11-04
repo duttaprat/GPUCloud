@@ -58,20 +58,12 @@ To compute your code using any instance do the following steps
     
     
 ## Use the created instance 
-    Now, the instance is created. Click on the instance and the get the details of `ssh` command to use that instance.   
-    ![2020-11-05 (8)](https://user-images.githubusercontent.com/29531232/98167328-e6f8cb80-1f0e-11eb-8ea8-56c9354c0b9c.png)
+   Now, the instance is created. Click on the instance and the get the details of `ssh` command to use that instance.   
+   ![2020-11-05 (8)](https://user-images.githubusercontent.com/29531232/98167328-e6f8cb80-1f0e-11eb-8ea8-56c9354c0b9c.png)
     
-    ![2020-11-05 (7)](https://user-images.githubusercontent.com/29531232/98167432-11e31f80-1f0f-11eb-93fa-d9c1618e4480.png)
+   ![2020-11-05 (7)](https://user-images.githubusercontent.com/29531232/98167432-11e31f80-1f0f-11eb-93fa-d9c1618e4480.png)
 
     
-
-
-
-
-
- 
-
-
 
 
   ## NOTE: `pip` and `conda` both are used to install packages in your local system. But to install package in any specific environment use `conda`.  
