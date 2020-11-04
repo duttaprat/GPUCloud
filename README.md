@@ -15,8 +15,6 @@
    After login, you can access the dashboard.
    ![2020-11-04 (5)](https://user-images.githubusercontent.com/29531232/98150935-6bd6eb80-1ef5-11eb-9dff-cfe7e71e7bec.png)
 
-    
-
 ## Create an instance for computation 
 To compute your code using any instance do the following steps
 
@@ -25,8 +23,25 @@ To compute your code using any instance do the following steps
    ![billing](https://user-images.githubusercontent.com/29531232/98151665-8f4e6600-1ef6-11eb-9444-f9bb554f31a5.png)
  
  * ### Step 2: Create and upload `ssh` key
+   In this step, first create `ssh` key. To generate `ssh` key in Ubuntu do the following steps
+   ```sh
+   pratik@PRATIK-YOGA:~$ ssh-keygen
+   Generating public/private rsa key pair.
+   Enter file in which to save the key (/home/username/.ssh/id_rsa):
+   Created directory '/home/username/.ssh'.
+   Enter passphrase (empty for no passphrase):
+   Enter same passphrase again:
+   ```
+   This is the last step in the creation process. You now have a public and private key that you can use to authenticate.
+   ```
+   Your identification has been saved in /home/username/.ssh/id_rsa.
+   Your public key has been saved in /home/username/.ssh/id_rsa.pub.
+   ```
+   
+ 
    From the **Account section** in the navigation menu, select **Keys and Tokens**. In the **SSH keys** section, click `Add new Key`.
    ![sshkey](https://user-images.githubusercontent.com/29531232/98155932-10106080-1efd-11eb-8965-a549a70491fe.png)
+   ![popup](https://user-images.githubusercontent.com/29531232/98157375-4818a300-1eff-11eb-9892-96bb6b984d77.png)
 
  
 
