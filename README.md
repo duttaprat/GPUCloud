@@ -1,5 +1,5 @@
 # GPUCloud
-* [Sign up and login the Genesis Cloud](#sign-up-and-login-the-genesiscloud)
+* [Sign up and login the Genesis Cloud](#sign-up-and-login-the-genesis-cloud)
 * [Create an instance for computation](#create-an-instance-for-computation)
   * [Step 1: Add your credit card](#step-1-add-your-credit-card)
   * [Step 2: Create and upload `ssh` key](#step-2-create-and-upload-ssh-key)
