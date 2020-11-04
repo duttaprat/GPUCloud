@@ -22,31 +22,21 @@
 To compute your code using any instance do the following steps
 
  * ### Step 1: Add your credit card
+   Before creating an instance, we need to add the details of credit card. 
    ![billing](https://user-images.githubusercontent.com/29531232/98151665-8f4e6600-1ef6-11eb-9444-f9bb554f31a5.png)
+ 
+ * ### Step 2: Create and upload `ssh` key
+ From the **Account section** in the navigation menu, select **Keys and Tokens**. In the **SSH keys** section, click `Add new Key`.
+ 
 
 
 
-2. After clicking you will redirect to the page section where you can find various `Anaconda Installer`. Download specific installer for your OS. 
-
-    ![2020-09-17 (1)](https://user-images.githubusercontent.com/29531232/93409870-7db4ee80-f8b5-11ea-860e-c1115ac337a1.png)
-
-
-3. `Anaconda3-2020.07-Linux-x86_64` will download.
 
 ### Installation
 
 After downloading the installer(`Anaconda3-2020.07-Linux-x86_64`), please make sure where it is located. I put the installer in `Downloads` folder. To install, do following steps
 
-1. Open your `Terminal` and go to the specific folder(in my case, the folder `Downloads`). Then use the following command
 
-   ```sh
-   pratik@PRATIK-YOGA:~$ cd Downloads/    
-   pratik@PRATIK-YOGA:~/Downloads$ bash Anaconda3-2020.07-Linux-x86_64
-   ```
- 
-2. You will see the following output
- 
-    ![2020-09-17 (3)](https://user-images.githubusercontent.com/29531232/93409949-a806ac00-f8b5-11ea-9276-dd8e5333580d.png)
 
 3. Click `ENTER` and finally it prompts `yes or no`. Enter `yes`. It will take a few minutes to install the anaconda in your system.
  
