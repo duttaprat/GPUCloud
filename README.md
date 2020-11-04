@@ -44,8 +44,8 @@ To compute your code using any instance do the following steps
    ![popup](https://user-images.githubusercontent.com/29531232/98157375-4818a300-1eff-11eb-9892-96bb6b984d77.png)
    In that window, upload the generated public key(`.pub`) file. 
    
-   * ### Step 3: Create and configure a GPU instance
-   To do this, go to the **Account section** in the navigation menu, select **Keys and Tokens**. In the **SSH keys** section, click `Add new Key`.
+  * ### Step 3: Create and configure a GPU instance
+    To do this, go to the **Compute section** in the navigation menu, click **Instances**. Then, click **Create New Instance**.
 
  
 
