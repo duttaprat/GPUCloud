@@ -17,7 +17,6 @@
 
     
 
-
 ## Create an instance for computation 
 To compute your code using any instance do the following steps
 
@@ -26,7 +25,9 @@ To compute your code using any instance do the following steps
    ![billing](https://user-images.githubusercontent.com/29531232/98151665-8f4e6600-1ef6-11eb-9444-f9bb554f31a5.png)
  
  * ### Step 2: Create and upload `ssh` key
- From the **Account section** in the navigation menu, select **Keys and Tokens**. In the **SSH keys** section, click `Add new Key`.
+   From the **Account section** in the navigation menu, select **Keys and Tokens**. In the **SSH keys** section, click `Add new Key`.
+   ![sshkey](https://user-images.githubusercontent.com/29531232/98155932-10106080-1efd-11eb-8965-a549a70491fe.png)
+
  
 
 
