@@ -12,7 +12,9 @@
 
 [Sign-up](https://account.genesiscloud.com/signup/HX6DfDGFuxSn0sSmPmSKB) Genesis Cloud using your email address and [login](https://account.genesiscloud.com/signin/tGu7mwKi5_f3naXxcomYy) Genesis Cloud Account using your credentials. 
 
-    After login, you can access the dashboard.
+   After login, you can access the dashboard.
+   ![2020-11-04 (5)](https://user-images.githubusercontent.com/29531232/98150935-6bd6eb80-1ef5-11eb-9dff-cfe7e71e7bec.png)
+
     
 
 
