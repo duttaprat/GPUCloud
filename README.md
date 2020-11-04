@@ -21,11 +21,7 @@
 ## Create an instance for computation 
 To compute your code using any instance do the following steps
 
- 1. ### Step 1: Add your credit card
-   You can download the Anaconda installer either using `Terminal` or `manually from the website`.
-
-1. Go to the [Anaconda Distribution Page](https://www.anaconda.com/products/individual#linux) and click `Download`.
-
+ * ### Step 1: Add your credit card
    ![billing](https://user-images.githubusercontent.com/29531232/98151665-8f4e6600-1ef6-11eb-9444-f9bb554f31a5.png)
 
 
