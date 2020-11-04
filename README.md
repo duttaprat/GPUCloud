@@ -49,6 +49,9 @@ To compute your code using any instance do the following steps
     ![2020-11-05 (1)](https://user-images.githubusercontent.com/29531232/98163640-16a4d500-1f09-11eb-8dfc-8a0b7b465190.png)
     
     ![2020-11-05 (2)](https://user-images.githubusercontent.com/29531232/98164219-f9bcd180-1f09-11eb-9edc-a4405c9c718b.png)
+    
+    ![2020-11-05 (5)](https://user-images.githubusercontent.com/29531232/98164573-810a4500-1f0a-11eb-97f1-c66e659b733f.png)
+
 
 
 
