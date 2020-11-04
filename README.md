@@ -59,6 +59,9 @@ To compute your code using any instance do the following steps
     
     
     Now, the instance is created. Click on the instance and the get the details of `ssh` command to use that instance.   
+    ![2020-11-05 (8)](https://user-images.githubusercontent.com/29531232/98167328-e6f8cb80-1f0e-11eb-8ea8-56c9354c0b9c.png)
+    
+
 
 
 
