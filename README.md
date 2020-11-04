@@ -1,7 +1,7 @@
 # GPUCloud
 * [Sign up and login the Genesis Cloud](#sign-up-and-login-the-genesiscloud)
 * [Create an instance for computation](#create-an-instance-for-computation)
-  * [Add your credit card](#add-your-credit-card)
+  * [Step 1: Add your credit card](#step-1:-add-your-credit-card)
   * [Activating `conda` environment and run your code](#activating-conda-environment-and-run-your-code)
 
 
@@ -13,7 +13,7 @@
 ## Create an instance for computation 
 To compute your code using any instance do the following steps
 
-### Step 1. Add your credit card
+### Step 1: Add your credit card
 You can download the Anaconda installer either using `Terminal` or `manually from the website`. Follow the steps to download it manullay from [Anaconda Distribution Page](https://www.anaconda.com/products/individual). 
 
 1. Go to the [Anaconda Distribution Page](https://www.anaconda.com/products/individual#linux) and click `Download`.
